@@ -30,4 +30,4 @@ This is a Rocket Challenge game designed and developed in Unity. That is the fir
 
 ### :camera_flash: Preview:
 
-![Preview](ProjectBoost-FourthLevel-PC_-Mac-_-Linux-Standalone-Unity-2020.3.gif)
+![](ProjectBoost-FourthLevel-PC_-Mac-_-Linux-Standalone-Unity-2020.3.gif)
