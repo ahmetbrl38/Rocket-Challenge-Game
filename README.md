@@ -2,31 +2,23 @@
 
 # :rocket: Rocket Challenge Game
 
-This is a Rocket Challenge game designed and developed in Unity. That is the first 3D Game I've developed myself. There is only 1 level in this game. It is very simple to play and basic to start.This game served me understanding the basics of Unity. 
+This is a Rocket Challenge game designed and developed in Unity. There are 5 levels in the game. It is very simple to play and basic to start. This game served me understanding more than basics of Unity such as changing scenes,fail,restart.
 
 ###  :sassy_man: Explenation:
 
-⇒ One Level,One Player
+⇒ Try to let the rocket pass obstacles without touching till the end point. You're gonna need to try again if you hit any obstacle. If you successfully reach to end point,you can pass the next level. At the end of last level,game is going to restart automatically.
 
-⇒ Try to pass blocks without touching and reach the end point. The color of it's gonna turn red as you touch a block.
+###  :sassy_man: Game Design:
+
+⇒ Player Experience: Precision,Skillful
+
+⇒ Core Mechanic: Skillfully fly spaceship and avoid environmental hazards.
+
+⇒ Core Game Loop: Get from A to B to complete the level. Then progress to next level.
 
 ###  :dart: Experiences:
 
-⇒ Using SerializeField
-
-⇒ Understanding Start() & Update() Methods
-
-⇒ C# Formatting & Input.GetAxis() Usage
-
-⇒ Cinemachine Follow Camera
-
-⇒ Using OnCollisionEnter(),GetComponent<>(),Time.time
-
-⇒ Caching A Reference
-
-⇒ Rotating an Object,Preparing Prefabs
-
-⇒ Basic Collision
+⇒
 
 ### :camera_flash: Preview:
 
