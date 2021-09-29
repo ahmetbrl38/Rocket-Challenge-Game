@@ -16,10 +16,6 @@ This is a Rocket Challenge game designed and developed in Unity. There are 5 lev
 
 ⇒ Core Game Loop: Get from A to B to complete the level. Then progress to next level.
 
-###  :dart: Experiences:
-
-⇒
-
 ### :camera_flash: Preview:
 
 ### :computer: Level 1:
